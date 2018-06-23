@@ -12,9 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this, "Started", Toast.LENGTH_SHORT).show();
-        
-        
-        TODO: pull form git
+
+
+        // TODO:pull form git
 
     }
 }
